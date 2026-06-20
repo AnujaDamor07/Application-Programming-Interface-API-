@@ -158,6 +158,13 @@ All testing referenced in these notes was performed against **intentionally vuln
 
 > 💡 Notes compiled while learning API security fundamentals and practicing on open-source vulnerable lab projects (crAPI, vAPI, VAmPI, Damn Vulnerable Bank, DVGA, and others — credit to their respective maintainers).
 
+> 🙏 Guided by:
+>
+> 👨‍🏫 **Sachin Verma Sir (Instructor)**
+> 🛡 **Armour Infosec**
+>
+> 🔗 https://www.armourinfosec.io/
+
 ---
 
 <!-- 🌌 Footer -->
